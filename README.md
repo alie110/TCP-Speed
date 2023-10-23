@@ -13,11 +13,8 @@ apt-get update -y
 apt-get upgrade -y
 ```
 ```bash
-wget [https://raw.githubusercontent.com/alie110/TCP-Speed/main/tcptweaker.sh](https://raw.githubusercontent.com/alie110/TCP-Speed/main/TCP-Tweaker.sh) && chmod +x tcptweaker.sh && ./tcptweaker.sh
+wget https://raw.githubusercontent.com/alie110/TCP-Speed/main/TCP-Tweaker.sh && chmod +x TCP-Tweaker.sh && ./TCP-Tweaker.sh
 ```
 DATA: To use again run the script: ./tcptweaker.sh
 
-## :scroll: Changelog
-**VERSION: 1.0**
-* [Details](https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/master/Install/TCP-Speed/versao)
 
