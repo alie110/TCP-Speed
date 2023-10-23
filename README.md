@@ -13,7 +13,7 @@ apt-get update -y
 apt-get upgrade -y
 ```
 ```bash
-wget (https://raw.githubusercontent.com/alie110/TCP-Speed/main/TCP-Tweaker.sh)/master/Install/TCP-Speed/tcptweaker.sh && chmod +x tcptweaker.sh && ./tcptweaker.sh
+wget [https://raw.githubusercontent.com/alie110/TCP-Speed/main/tcptweaker.sh](https://raw.githubusercontent.com/alie110/TCP-Speed/main/TCP-Tweaker.sh) && chmod +x tcptweaker.sh && ./tcptweaker.sh
 ```
 DATA: To use again run the script: ./tcptweaker.sh
 
